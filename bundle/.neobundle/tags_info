@@ -1,0 +1,16 @@
+ctrlp.vim
+neobundle.vim
+neosnippet
+neosnippet-snippets
+nerdtree
+quickrun-hook-santi_pinch
+syntastic
+tern_for_vim
+unite.vim
+vim-anzu
+vim-fugitive
+vim-hybrid
+vim-quickrun
+vimfiler
+vimproc
+vimshell
